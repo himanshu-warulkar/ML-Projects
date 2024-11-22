@@ -1,8 +1,3 @@
-# ML-Projects
-Here’s an example of a structured and professional `README.md` file for your ML projects repository:
-
----
-
 # **ML Projects**
 
 Welcome to the repository showcasing my Machine Learning projects! Each project demonstrates various ML techniques, such as regression, classification, and clustering, using Python and Jupyter Notebooks.
