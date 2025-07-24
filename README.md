@@ -67,7 +67,7 @@ This repository contains implementations of several machine learning algorithms 
 ## **How to Use**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Aiprogrammer2305/ML-Projects.git
+   git clone https://github.com/himanshu-warulkar/ML-Projects.git
    ```
 2. Navigate to the desired project folder and open the `.ipynb` file in Jupyter Notebook or JupyterLab.
 3. Install dependencies using:
